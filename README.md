@@ -30,7 +30,7 @@ The code for several baseline methods:
 ## Results
 
 <p align="center">
-  <img src="./results.jpg" alt="results" width="95%">
+  <img src="./results.jpg" alt="results" width="65%">
 </p>
 
 Our method achieves competitive or superior results compared with previous methods on multiple benchmarks.
