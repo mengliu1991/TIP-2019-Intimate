@@ -13,18 +13,17 @@ In our work, we use the dataset proposed by the work of the paper "Shorter-is-Be
 - **Code Download**: [Baidu Netdisk](https://pan.baidu.com/s/1KkjiDOVf5VHN6RBJ7DIROA)
 - **Dataset Download**: [Baidu Netdisk](https://pan.baidu.com/s/1peq5SOElwRYWQLwhj9Nixw)
 
-We also reimplemented the code for several baseline methods:
-- **Code Download**: [MCN](https://github.com/LisaAnne/LocalizingMoments)
-- **Code Download**: [Glove](https://pan.baidu.com/s/1htqQDla)
-- **Code Download**: [TALL](https://github.com/jiyanggao/TALL)
-- **Code Download**: [TALL](https://pan.baidu.com/s/1kWjsXYB)
-- **Code Download**: [VSA-STV](https://pan.baidu.com/s/1eTX8hOI)
-- **Code Download**: [VSA-RNN](https://pan.baidu.com/s/1mjx4eve)
+The code for several baseline methods:
+- **Code Download**: [DDL](http://spams-devel.gforge.inria.fr/index.html)
+- **Code Download**: [ODLSC](https://github.com/jamesgregson/matlab_dictionary_learning)
+- **Code Download**: [SRMTL](http://www.public.asu.edu/~jye02/Software/MALSAR/)
+- **Code Download**: [MTDL& MDL](https://github.com/soheilb/multimodal_dictionary_learning)
+- **Code Download**: [TRUMANN](http://acmmm16.wixsite.com/mm16)
   
 ## Method Overview
 
 <p align="center">
-  <img src="./framework.jpg" alt="framework" width="55%">
+  <img src="./framework.jpg" alt="framework" width="75%">
 </p>
 
 
